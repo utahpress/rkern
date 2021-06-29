@@ -67,7 +67,7 @@ form {
 }
 
 .leaflet-popup-content {
-  min-width: 150px;
+  min-width: 400px;
 }
 
 .leaflet-popup-content img {
